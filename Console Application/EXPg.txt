@@ -1,0 +1,34 @@
+﻿E:T E'
+E':+ T E' | ~
+T:F T'
+T':* F T' | ~
+F:( E ) | id
+
+
+E:T E'
+E':+ T E' | - T E' | ~
+T:F T'
+T':* F T' | / F T' | ~
+F:( E ) | id
+
+
+type:^ id | array [ simple ] of type | simple
+simple:int | char | num dotdot num
+
+
+
+S:i E t S S' | a
+S':e S
+E:b
+
+S:i E t S S' | a
+S':e S | ~
+E:b
+
+stmt:if e then stmt | if e then stmt else stmt | while e do stmt | begin list end | s
+list:list j stmt | stmt
+
+S:A a | b
+A:b d A' | A'
+A':c A' | a d A' | ~
+

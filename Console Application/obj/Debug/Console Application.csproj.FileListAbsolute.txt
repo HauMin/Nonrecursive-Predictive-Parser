@@ -1,0 +1,14 @@
+C:\Users\FARHAD\documents\visual studio 2013\Projects\Console Application\Console Application\bin\Debug\Console Application.exe.config
+C:\Users\FARHAD\documents\visual studio 2013\Projects\Console Application\Console Application\bin\Debug\Console Application.exe
+C:\Users\FARHAD\documents\visual studio 2013\Projects\Console Application\Console Application\bin\Debug\Console Application.pdb
+C:\Users\FARHAD\documents\visual studio 2013\Projects\Console Application\Console Application\obj\Debug\Console Application.csprojResolveAssemblyReference.cache
+C:\Users\FARHAD\documents\visual studio 2013\Projects\Console Application\Console Application\obj\Debug\Console Application.exe
+C:\Users\FARHAD\documents\visual studio 2013\Projects\Console Application\Console Application\obj\Debug\Console Application.pdb
+C:\Users\FARHAD\documents\visual studio 2013\Projects\Console Application\Console Application\bin\Debug\g.txt
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\bin\Debug\g.txt
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\obj\Debug\Console Application.csprojResolveAssemblyReference.cache
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\bin\Debug\Nonrecursive Predictive Parser.exe.config
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\bin\Debug\Nonrecursive Predictive Parser.exe
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\bin\Debug\Nonrecursive Predictive Parser.pdb
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\obj\Debug\Nonrecursive Predictive Parser.exe
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\obj\Debug\Nonrecursive Predictive Parser.pdb

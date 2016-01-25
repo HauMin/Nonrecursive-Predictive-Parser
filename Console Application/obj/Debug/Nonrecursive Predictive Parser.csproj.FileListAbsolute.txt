@@ -1,0 +1,8 @@
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\obj\Debug\Nonrecursive Predictive Parser.exe
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\obj\Debug\Nonrecursive Predictive Parser.pdb
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\bin\Debug\g.txt
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\bin\Debug\Nonrecursive Predictive Parser.exe.config
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\bin\Debug\Nonrecursive Predictive Parser.exe
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\bin\Debug\Nonrecursive Predictive Parser.pdb
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\obj\Debug\Nonrecursive Predictive Parser.csprojResolveAssemblyReference.cache
+G:\DEPATMENTALCOURSES\Compiler Design\Console Application\Console Application\bin\Debug\EXPg.txt
